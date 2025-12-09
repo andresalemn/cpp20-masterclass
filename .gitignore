@@ -32,6 +32,7 @@ CMakeLists.txt.user.*
 *.autosave
 *.qmlproject.user
 *.qmlproject.user.*
+.qtcreator
 
 # Compiled binaries
 *.exe
